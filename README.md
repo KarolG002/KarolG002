@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karol
   
-- 👀 I’m interested in pursuing career in data engineering.
+- 👀 I’m interested in pursuing a career in the field of data engineering.
   
 - 🌱 I’m currently learning Python, Cloud services and writing efficient data pipelines.
 
