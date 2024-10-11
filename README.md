@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning Python, Cloud services and writing efficient data pipelines.
 
-- You can see my latest projects [here](https://github.com/KarolG002/Winery_DE_Project) (https://github.com/KarolG002/API_DE_Project)
+- You can see my latest projects here [Winery DE Project](https://github.com/KarolG002/Winery_DE_Project) and [Custom API Data Generator](https://github.com/KarolG002/API_DE_Project)
 <!---
 KarolG002/KarolG002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
